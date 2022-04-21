@@ -103,17 +103,6 @@ footer:
       url: "https://instagram.com/_peteryong"
 
 defaults:
-  # _posts
-  - scope:
-      path: ""
-      type: posts
-    values:
-      layout: single
-      author_profile: true
-      read_time: true
-      comments: true
-      share: true
-      related: true
   # _pages
   - scope:
       path: "_pages"
@@ -121,6 +110,8 @@ defaults:
     values:
       layout: single
       author_profile: true
+      
+      
 
 category_archive:
   type: liquid
