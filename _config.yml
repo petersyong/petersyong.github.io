@@ -83,7 +83,7 @@ author:
 
 footer:
   links:
-    -- label: "ResearchGate"
+    - label: "ResearchGate"
       icon: "fab fa-fw fa-researchgate"
       url: "https://www.researchgate.net/profile/Peter_Yong2"
     - label: "LinkedIn"
