@@ -2,7 +2,7 @@
 permalink: /publications/
 title: "Publications"
 ---
-Targeted isolation  of diverse human broadly  neutralizing  antibodies against SARS-like viruses. Wan-ting He, et al. [Accepted, 2022]. 
+<a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8845431/">Targeted isolation  of diverse human broadly  neutralizing  antibodies against SARS-like viruses.</a> Wan-ting He, et al. [Accepted, 2022]. 
 
 Broadly neutralizing antibodies to SARS-related viruses can be readily induced in rhesus macaques. Wan-ting He, et al. [Accepted, 2022]
 
@@ -12,6 +12,6 @@ Broadly neutralizing antibodies to SARS-related viruses can be readily induced i
 
 <a href="https://pubs.acs.org/doi/10.1021/acs.biochem.1c00279">Site-specific steric control of SARS-CoV-2 spike glycosylation.</a> Joel D. Allen, et al. Biochemistry. 2021.
 
-Molecular insights into antibody-mediated protection against the prototypic simian immunodeficiency virus. [BioRxiv preprint]
+<a href="https://www.biorxiv.org/content/10.1101/2021.12.22.473937v1">Molecular insights into antibody-mediated protection against the prototypic simian immunodeficiency virus.</a> Fangzhu Zhao, et al. [BioRxiv preprint]
 
-Broadly neutralizing anti-S2 antibodies protect against all three human betacoronaviruses that cause severe disease. [BioRxiv preprint]
+<a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8923106/">Broadly neutralizing anti-S2 antibodies protect against all three human betacoronaviruses that cause severe disease.</a> Panpan Zhou, et al. [BioRxiv preprint]
