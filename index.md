@@ -1,3 +1,10 @@
+
+layout: single
+author_profile: true
+permanentlink: /_pages/home.md
+permanentlink: /_pages/about.md
+
+
 ## Education
 University of Minnesota, Twin Cities. College of Biological Sciences.   
 Biochemistry B.S.  
