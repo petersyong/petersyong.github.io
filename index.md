@@ -1,9 +1,9 @@
-### Education
+## Education
 University of Minnesota, Twin Cities. College of Biological Sciences.   
 Biochemistry B.S.  
 3.73/4.00 GPA  
 
-### Research
+## Research
 
 The Scripps Research Institute. San Diego, California.  
 Department of Immunology and Microbiology. Mentored by Dr. Raiees Andrabi. HIV/COVID-19 vaccine design.  
