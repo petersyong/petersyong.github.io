@@ -1,4 +1,6 @@
 main:
+  - title: "Home"
+    url: peteryong.me
   - title: "About"
     url: /about/
   - title: "Publications"
