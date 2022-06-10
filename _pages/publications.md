@@ -4,7 +4,7 @@ title: "Publications"
 ---
 <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8845431/">Targeted isolation  of diverse human broadly  neutralizing  antibodies against SARS-like viruses.</a> Wan-ting He, et al. Nature Immunology. 2022. 
 
-Broadly neutralizing antibodies to SARS-related viruses can be readily induced in rhesus macaques. Wan-ting He, et al. [Accepted, 2022]
+Broadly neutralizing antibodies to SARS-related viruses can be readily induced in rhesus macaques. Wan-ting He, et al. [Accepted, Science Translational Medicine. 2022.]
 
 <a href="https://academic.oup.com/endo/article/163/4/bqac014/6523230">Inflammasome activation and pyroptosis via a lipid-regulated SIRT1-p53-ASC axis in macrophages from male mice and humans.</a> Yimao Huang, Peter Yong, et al. Endocrinology. 2022. 
 
