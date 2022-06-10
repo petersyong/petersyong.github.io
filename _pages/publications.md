@@ -2,7 +2,7 @@
 permalink: /publications/
 title: "Publications"
 ---
-<a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8845431/">Targeted isolation  of diverse human broadly  neutralizing  antibodies against SARS-like viruses.</a> Wan-ting He, et al. [Accepted, 2022]. 
+<a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8845431/">Targeted isolation  of diverse human broadly  neutralizing  antibodies against SARS-like viruses.</a> Wan-ting He, et al. Nature Immunology. 2022. 
 
 Broadly neutralizing antibodies to SARS-related viruses can be readily induced in rhesus macaques. Wan-ting He, et al. [Accepted, 2022]
 
