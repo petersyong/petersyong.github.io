@@ -58,7 +58,7 @@ plugins:
 author:
   name   : "Peter Yong"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Research associate @Biotech Series A Startup <br> <br> Previously @Scripps Research, NIH, and University of Minnesota <br> <br> umn c/o 2020 alum"
+  bio    : "Research associate @Rampart Biosciences. <br> <br> Previously @Scripps Research, NIH, and University of Minnesota <br> <br> UMN'2020. "
   links:
     - label: "ResearchGate"
       icon: "fab fa-fw fa-researchgate"
