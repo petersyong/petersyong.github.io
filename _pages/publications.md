@@ -2,7 +2,7 @@
 permalink: /publications/
 title: "Publications"
 ---
-<a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8923106/](https://www.cell.com/immunity/fulltext/S1074-7613(23)00079-1?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS1074761323000791%3Fshowall%3Dtrue)">Broadly neutralizing anti-S2 antibodies protect against all three human betacoronaviruses that cause severe disease.</a> Panpan Zhou, et al. Immunity. 2023.
+<a href="https://doi.org/10.1016/j.immuni.2023.02.005">Broadly neutralizing anti-S2 antibodies protect against all three human betacoronaviruses that cause severe disease.</a> Panpan Zhou, et al. Immunity. 2023.
 
 <a href="https://www.nature.com/articles/s41467-022-32783-2">Molecular insights into antibody-mediated protection against the prototypic simian immunodeficiency virus.</a> Fangzhu Zhao, et al. Nature Communications. 2022.
 
