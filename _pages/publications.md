@@ -4,7 +4,7 @@ title: "Publications"
 ---
 <a href="https://pubmed.ncbi.nlm.nih.gov/37115197/">Desmoglein 2 Functions as a Receptor for Fatty Acid Binding Protein 4 in Breast Cancer Epithelial Cells.</a> Dongmei Chen, et al. Molecular Cancer Research. 2023.
 
-<a href="https://pubmed.ncbi.nlm.nih.gov/36972173/">The diversity of the glycan shield of sarbecoviruses closely related to SARS-CoV-2.</a> Joel D. Allen, et al. Cell Reports.</a> 2023
+<a href="https://pubmed.ncbi.nlm.nih.gov/36972173/">The diversity of the glycan shield of sarbecoviruses closely related to SARS-CoV-2.</a> Joel D. Allen, et al. Cell Reports. 2023.
 
 <a href="https://doi.org/10.1016/j.immuni.2023.02.005">Broadly neutralizing anti-S2 antibodies protect against all three human betacoronaviruses that cause severe disease.</a> Panpan Zhou, et al. Immunity. 2023.
 
